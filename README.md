@@ -11,6 +11,9 @@ Collaborated with [Tarun Raman](https://github.com/2307tarun), [Prachee Sharma](
 ***
 
 ## SPACECRAFT TRAJECTORIES
+***
+![traj.](https://www.universetoday.com/wp-content/uploads/2013/12/crop-infographic.jpg)
+***
 
 Exploring the vast expanse of our universe requires innovation, precision and accuracy along with a deep understanding of the complex dynamics, laws that govern the movement of spacecraft. Spacecraft trajectories are the heart of every successful space mission, be it interplanetary exploration, rendezvous with celestial bodies, or even navigating around space stations and satellites.The ability to chart optimal trajectory paths for these vessels as they traverse the cosmic sea is of paramount significance in the field of space exploration. Over the years, scientists and engineers together have delved into the delicacies of spacecraft trajectory planning, seeking solutions that guarantee safe passage and also optimize fuel consumption along with minimizing the total mission time. Through the combined report, we embark on a journey through the astounding advancements in spacecraft trajectory planning and optimization.
 
@@ -35,4 +38,4 @@ We will be looking at various algorithms to help us in our venture. The study of
 
 The application of computational methods, such as Genetic Algorithms and Monte Carlo Tree Search, has enabled the solution of complex trajectory planning problems, while the integration of mathematical models and consideration of uncertainties are pivotal for precise and accurate navigation. Furthermore we will see the emphasis on multi-objective optimization and the accomplishment of mission goals with minimal fuel consumption underscore the ongoing efforts to extend the reach and capabilities of space missions. Overall, the research presented in the report showcases the dedication and passion of scientists and engineers together in advancing the field of spacecraft trajectories to unlock the mysteries of the cosmos and enable ambitious human interplanetary probes.
 
-![traj.](https://www.universetoday.com/wp-content/uploads/2013/12/crop-infographic.jpg)
+
