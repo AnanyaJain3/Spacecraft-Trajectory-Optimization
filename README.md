@@ -23,13 +23,7 @@ Spacecraft trajectory optimization is a multidisciplinary field that touches upo
 
 Some goals we try to achieve from this is to have a working model, expressed as an executable code, which can predict, estimate and do similar tasks.
 
-1. Optimization of Spacecraft Trajectories
-2. Efficient Space Exploration
-3. Adaptive and Autonomous Control
-4. Interplanetary Mission Planning
-5. Application of Computational Methods
-6. Multi- Objective Optimization
-   
+
 We will be looking at various algorithms to help us in our venture. The study of spacecraft trajectories is a multifaceted field that strives to optimize the paths of space missions with a diverse range of objectives and constraints of the cosmic world. It will be evident from the provided papers that researchers have made significant progress in developing advanced optimization techniques, adaptive control systems, and collision avoidance strategies to enhance the efficiency and safety of space exploration.
 
 The application of computational methods, such as Genetic Algorithms and Monte Carlo Tree Search, has enabled the solution of complex trajectory planning problems, while the integration of mathematical models and consideration of uncertainties are pivotal for precise and accurate navigation. Furthermore we will see the emphasis on multi-objective optimization and the accomplishment of mission goals with minimal fuel consumption underscore the ongoing efforts to extend the reach and capabilities of space missions. Overall, the research presented in the report showcases the dedication and passion of scientists and engineers together in advancing the field of spacecraft trajectories to unlock the mysteries of the cosmos and enable ambitious human interplanetary probes.
