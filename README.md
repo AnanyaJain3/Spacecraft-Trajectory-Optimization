@@ -15,6 +15,11 @@ Collaborated with [Tarun Raman](https://github.com/2307tarun), [Prachee Sharma](
 ![traj.](https://www.universetoday.com/wp-content/uploads/2013/12/crop-infographic.jpg)
 ***
 
+### A Star Animation 
+
+2 Dimensional 
+ <td><img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/Astar.gif" alt="lpastar" width="400"/></a></td>
+
 ### D Star Lite Animation 
 
 2 Dimensional 
