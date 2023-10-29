@@ -15,6 +15,8 @@ Collaborated with [Tarun Raman](https://github.com/2307tarun), [Prachee Sharma](
 ![traj.](https://www.universetoday.com/wp-content/uploads/2013/12/crop-infographic.jpg)
 ***
 
+ <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/D_star.gif" alt="lpastar" width="400"/></a></td>
+
 Exploring the vast expanse of our universe requires innovation, precision and accuracy along with a deep understanding of the complex dynamics, laws that govern the movement of spacecraft. Spacecraft trajectories are the heart of every successful space mission, be it interplanetary exploration, rendezvous with celestial bodies, or even navigating around space stations and satellites.The ability to chart optimal trajectory paths for these vessels as they traverse the cosmic sea is of paramount significance in the field of space exploration. Over the years, scientists and engineers together have delved into the delicacies of spacecraft trajectory planning, seeking solutions that guarantee safe passage and also optimize fuel consumption along with minimizing the total mission time. Through the combined report, we embark on a journey through the astounding advancements in spacecraft trajectory planning and optimization.
 
 The realm of space exploration is witnessing a strong revolution in computational methods thanks to the ever growing technologies and methods developed like application of hybrid algorithms combining swarm optimization with Legendre pseudospectral methods to tackle complex time-optimal trajectory planning, implementation of Monte Carlo Tree Search (MCTS) for automated interplanetary mission planning. These methods hold the potential to revolutionize how we plan and execute missions in the cosmic void.
