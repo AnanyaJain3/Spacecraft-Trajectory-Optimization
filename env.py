@@ -1,7 +1,4 @@
-"""
-Env 2D
-@author: huiming zhou
-"""
+
 
 
 class Env:
