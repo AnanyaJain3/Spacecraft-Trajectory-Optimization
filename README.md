@@ -16,7 +16,12 @@ Collaborated with [Tarun Raman](https://github.com/2307tarun), [Prachee Sharma](
 ***
 
 ### D Star Lite Animation 
- <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/D_star.gif" alt="lpastar" width="400"/></a></td>
+
+2 Dimensional 
+ <td><img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/D_star_Lite.gif" alt="lpastar" width="400"/></a></td>
+
+3 Dimensional 
+  <td><img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/242d027a-76cb-4e8f-9d12-acae1b4e9b3a.gif" alt="lpastar" width="400"/></a></td>
 
  ***
 
