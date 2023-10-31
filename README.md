@@ -1,5 +1,5 @@
 # Spacecraft-Trajectory-Optimization
-Project under CSF 407 - Artifical Intelligence
+Project under CS F407 - Artifical Intelligence
 
 # **Optimization of Spacecraft Trajectories for Precision Navigation and Control**
 
