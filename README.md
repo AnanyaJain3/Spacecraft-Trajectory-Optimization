@@ -26,7 +26,14 @@ Collaborated with [Tarun Raman](https://github.com/2307tarun), [Prachee Sharma](
 | ----------------------         | ----------------------    |
 | <img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/D_star_Lite.gif" alt="lpastar" width="400"/></a>     | <img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/242d027a-76cb-4e8f-9d12-acae1b4e9b3a.gif" alt="lpastar" width="400"/></a> |
 
+### PSO
+
+| Ackley population                  | Rosenbrock population            |
+| ----------------------         | ----------------------    |
+| <img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/PSO_Ackley_population_30.gif" alt="lpastar" width="400"/></a>     | <img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/PSO_Rosenbrock_population_30.gif" alt="lpastar" width="400"/></a> |
+
  ***
+ 
 
 Exploring the vast expanse of our universe requires innovation, precision and accuracy along with a deep understanding of the complex dynamics, laws that govern the movement of spacecraft. Spacecraft trajectories are the heart of every successful space mission, be it interplanetary exploration, rendezvous with celestial bodies, or even navigating around space stations and satellites.The ability to chart optimal trajectory paths for these vessels as they traverse the cosmic sea is of paramount significance in the field of space exploration. Over the years, scientists and engineers together have delved into the delicacies of spacecraft trajectory planning, seeking solutions that guarantee safe passage and also optimize fuel consumption along with minimizing the total mission time. Through the combined report, we embark on a journey through the astounding advancements in spacecraft trajectory planning and optimization.
 
