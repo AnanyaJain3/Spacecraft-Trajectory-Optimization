@@ -22,6 +22,11 @@ GTOC - 5  - https://github.com/lfsimoes/beam_paco__gtoc5
 2 Dimensional 
  <td><img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/Astar.gif" alt="lpastar" width="400"/></a></td>
 
+### Dijkstra Animation 
+
+2 Dimensional 
+ <td><img src="https://github.com/AnanyaJain3/Spacecraft-Trajectory-Optimization/blob/main/animations/Dijkstra.gif" alt="lpastar" width="400"/></a></td>
+
 ### D Star Lite Animation 
 
 | 2 Dimensional                  | 3 Dimensional             |
